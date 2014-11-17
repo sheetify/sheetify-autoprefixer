@@ -1,6 +1,6 @@
 {
   "name": "sheetify-autoprefixer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "autoprefixer as a sheetify text transform",
   "main": "index.js",
   "scripts": {
